@@ -1,0 +1,6 @@
+.gradle/
+build/
+run/
+gradle-2.14.1*
+*.iml
+.idea/
